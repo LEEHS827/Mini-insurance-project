@@ -7,17 +7,23 @@
 #### 보험데이터
 - '해빗팩토리' 보험 관련 데이터 120만건을 활용하였습니다.
 - 나이, 성별, 가족 수, 소비 금액 등으로 이루어져있습니다.
-- 
+
 #### 여가생활데이터
 - 'KOSIS' 통계 데이터를 활용하였습니다.
 - 여가활동 관련 데이터 중 2023년도 기준 데이터를 사용하였습니다.
 
 ### 기술 스택 (사용된 언어 및 라이브러리)
-Python, pandas, numpy, sklearn, plotly, scipy, os
+- Python
+- pandas
+- numpy
+- sklearn
+- plotly
+- scipy
+- os
 
 ### 코드 설명
-data_preprocess는 머신러닝에 필요한 학습데이터를 만드는 과정을 담은 코드입니다.
-models_visualization은 데이터를 읽고 분석한 코드입니다.
+- data_preprocess는 머신러닝에 필요한 학습데이터를 만드는 과정을 담은 코드입니다.
+- models_visualization은 데이터를 읽고 분석한 코드입니다.
 
 ### 개발 기간
 2024.12.26 ~ 2025.01.07
